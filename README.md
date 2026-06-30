@@ -3,10 +3,10 @@
 </p>
 
 ## 📝 About Me
-Hi, I'm Sangwon Seo. I am a senior studying Computer Science and Engineering at Hanyang University and an undergraduate researcher at CVLab, deeply interested in and conducting research on computer vision.
+Hi, I'm Sangwon Seo. I am a senior studying Computer Science and Engineering at Hanyang University and an undergraduate researcher at CVLab in HYU, deeply interested in and conducting research on computer vision.
 
+* :sunglasses: **Name:** Sangwon Seo, 서상원
 * 📧 **Contact:** [bboeric@naver.com]
-* 🔗 **GitHub:** [github.com/bboeric](https://github.com/bboeric)
 
 ---
 
