@@ -35,5 +35,5 @@ Hi, I'm Sangwon Seo. I am a senior studying Computer Science and Engineering at 
 
 ## 📚 Publications
 * StreetGaussians의 주요 실패 사례 분석 및 개선 전략 제안
-  * *Sangwon Seo‡*, Dohoon Kim‡, and Donghyeon Cho*
+  * *Sangwon Seo*‡, Dohoon Kim‡, and Donghyeon Cho*
   * *2026 Summer Conference of the Institute of Electronics and Information Engineers(IEIE, 대한전자공학회)*
