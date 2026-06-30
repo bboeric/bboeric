@@ -27,7 +27,7 @@ Hi, I'm Sangwon Seo. I am a senior studying Computer Science and Engineering at 
 ---
 
 ## 🏆 Achievements & Awards
-* **Grand Prize (우수상), Undergraduate AI Competition** | *The Institute of Electronics and Information Engineers of Korea (IEIE, 대한전자공학회)*
+* **Paper Award (우수상), Undergraduate AI Competition** | *The Institute of Electronics and Information Engineers of Korea (IEIE, 대한전자공학회)*
   * Awarded for the research project titled "StreetGaussians의 주요 실패 사례 분석 및 개선 전략 제안" in the field of Artificial Intelligence.
   * *Jun 24, 2026* 
 
